@@ -1,0 +1,148 @@
+{
+	'sentences': [{
+		'parse': '(ROOT\n(S\n(NP(DTThis))\n(VP(VBZis)\n(NP(DTa)(NNsentence)))))',
+		'index': 0,
+		'enhancedDependencies': [{
+			'governorGloss': 'ROOT',
+			'dependentGloss': 'sentence',
+			'dependent': 4,
+			'dep': 'ROOT',
+			'governor': 0
+		},
+		{
+			'governorGloss': 'sentence',
+			'dependentGloss': 'This',
+			'dependent': 1,
+			'dep': 'nsubj',
+			'governor': 4
+		},
+		{
+			'governorGloss': 'sentence',
+			'dependentGloss': 'is',
+			'dependent': 2,
+			'dep': 'cop',
+			'governor': 4
+		},
+		{
+			'governorGloss': 'sentence',
+			'dependentGloss': 'a',
+			'dependent': 3,
+			'dep': 'det',
+			'governor': 4
+		}],
+		'tokens': [{
+			'after': '',
+			'characterOffsetEnd': 4,
+			'index': 1,
+			'speaker': 'PER0',
+			'ner': 'O',
+			'pos': 'DT',
+			'characterOffsetBegin': 0,
+			'word': 'This',
+			'before': '',
+			'lemma': 'this',
+			'originalText': 'This'
+		},
+		{
+			'after': '',
+			'characterOffsetEnd': 7,
+			'index': 2,
+			'speaker': 'PER0',
+			'ner': 'O',
+			'pos': 'VBZ',
+			'characterOffsetBegin': 5,
+			'word': 'is',
+			'before': '',
+			'lemma': 'be',
+			'originalText': 'is'
+		},
+		{
+			'after': '',
+			'characterOffsetEnd': 9,
+			'index': 3,
+			'speaker': 'PER0',
+			'ner': 'O',
+			'pos': 'DT',
+			'characterOffsetBegin': 8,
+			'word': 'a',
+			'before': '',
+			'lemma': 'a',
+			'originalText': 'a'
+		},
+		{
+			'after': '',
+			'characterOffsetEnd': 18,
+			'index': 4,
+			'speaker': 'PER0',
+			'ner': 'O',
+			'pos': 'NN',
+			'characterOffsetBegin': 10,
+			'word': 'sentence',
+			'before': '',
+			'lemma': 'sentence',
+			'originalText': 'sentence'
+		}],
+		'basicDependencies': [{
+			'governorGloss': 'ROOT',
+			'dependentGloss': 'sentence',
+			'dependent': 4,
+			'dep': 'ROOT',
+			'governor': 0
+		},
+		{
+			'governorGloss': 'sentence',
+			'dependentGloss': 'This',
+			'dependent': 1,
+			'dep': 'nsubj',
+			'governor': 4
+		},
+		{
+			'governorGloss': 'sentence',
+			'dependentGloss': 'is',
+			'dependent': 2,
+			'dep': 'cop',
+			'governor': 4
+		},
+		{
+			'governorGloss': 'sentence',
+			'dependentGloss': 'a',
+			'dependent': 3,
+			'dep': 'det',
+			'governor': 4
+		}],
+		'entitymentions': [],
+		'kbp': [],
+		'openie': [],
+		'enhancedPlusPlusDependencies': [{
+			'governorGloss': 'ROOT',
+			'dependentGloss': 'sentence',
+			'dependent': 4,
+			'dep': 'ROOT',
+			'governor': 0
+		},
+		{
+			'governorGloss': 'sentence',
+			'dependentGloss': 'This',
+			'dependent': 1,
+			'dep': 'nsubj',
+			'governor': 4
+		},
+		{
+			'governorGloss': 'sentence',
+			'dependentGloss': 'is',
+			'dependent': 2,
+			'dep': 'cop',
+			'governor': 4
+		},
+		{
+			'governorGloss': 'sentence',
+			'dependentGloss': 'a',
+			'dependent': 3,
+			'dep': 'det',
+			'governor': 4
+		}]
+	}],
+	'corefs': {
+
+	}
+}
