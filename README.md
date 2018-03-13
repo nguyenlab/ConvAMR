@@ -17,3 +17,8 @@ We pulished the source code for the paper [ConvAMR: Abstract Meaning Representat
   eprint    = {1711.06141},
 }
 ```
+
+We derive and modify the [``fairseq``](https://github.com/facebookresearch/fairseq) project form  facebook research.
+
+## Contact
+If you find and issues, please raise an issue in github repository or contact us at ``vietld@jaist.ac.jp`` (main developer) or ``nguyenml@jaist.ac.jp``.
