@@ -13,3 +13,11 @@ pip install nltk==3.2.5
 pip install cffi
 pip install numpy
 pip install tqdm
+
+
+
+# Clone SMATCH score
+
+git clone https://github.com/snowblink14/smatch.git
+
+git clone https://github.com/mdtux89/amr-evaluation.git
