@@ -20,5 +20,15 @@ We pulished the source code for the paper [ConvAMR: Abstract Meaning Representat
 
 We derive and modify the [``fairseq``](https://github.com/facebookresearch/fairseq-py) project form  facebook research.
 
+## Installation
+Please follow this [guideline](https://github.com/pytorch/pytorch#installation) to install the pytorch version 0.4
+
+Install the dependencies and clone metrics for evaluating AMR parser:
+
+```
+chmod +x install_dep.sh
+./install_dep.sh <python-3.6-environment-name>
+```
+
 ## Contact
 If you find and issues, please raise an issue in github repository or contact us at ``vietld@jaist.ac.jp`` (main developer) or ``nguyenml@jaist.ac.jp``.
