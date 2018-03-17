@@ -1,7 +1,7 @@
 # AMR parser with Convolutional Seq2seq
 
 
-We pulished the source code for the paper [ConvAMR: Abstract Meaning Representation Parsing for Legal Document](https://arxiv.org/abs/1711.06141)
+We published the source code for the paper [ConvAMR: Abstract Meaning Representation Parsing for Legal Document](https://arxiv.org/abs/1711.06141)
 ```
 @article{viet:2017:SCIDOCA,
   author    = {Lai Dac Viet and
